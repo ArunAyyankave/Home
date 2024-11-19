@@ -228,6 +228,7 @@
     min-height: 100vh;
     margin: 0;
     background-color: #f1f5f9;
+    background: linear-gradient(to bottom, #4a90e2 50%, transparent 50%);
 }
 
 #f-section .feedback-section {
